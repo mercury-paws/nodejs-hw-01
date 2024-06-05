@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Kerry Wolf",
+    "phone": "1-570-348-3500 x86588",
+    "email": "Baylee62@yahoo.com",
+    "job": "International Program Executive"
+  },
+  {
+    "name": "Anne Thompson III",
+    "phone": "561-268-0879",
+    "email": "Efrain75@gmail.com",
+    "job": "Regional Accountability Facilitator"
+  },
+  {
+    "name": "Francis Hirthe",
+    "phone": "(399) 462-6407 x60433",
+    "email": "Chauncey_Beahan46@hotmail.com",
+    "job": "Future Branding Developer"
+  },
+  {
+    "name": "Nettie Olson",
+    "phone": "700.707.7141 x5642",
+    "email": "Antwon74@gmail.com",
+    "job": "International Implementation Coordinator"
+  },
+  {
+    "name": "Ms. Mandy Weissnat",
+    "phone": "640.986.2688 x3133",
+    "email": "Madie.Jast99@gmail.com",
+    "job": "Direct Brand Engineer"
+  },
+  {
+    "name": "Howard Dietrich",
+    "phone": "395.415.5475 x724",
+    "email": "Russell_Breitenberg@gmail.com",
+    "job": "Central Interactions Engineer"
+  }
+]
